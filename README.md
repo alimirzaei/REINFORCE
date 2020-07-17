@@ -1,2 +1,2 @@
-# REINFORCE
-The policy gradient based algorithm REINFORCE 
+# About this project
+In this project I implemented the REINFORCE algorithm with baseline. 
